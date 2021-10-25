@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabriyeuregen" alt="sabriyeuregen" /> </p>
 
 
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/sabriyeuregen)
+[![](https://img.shields.io/github/followers/sabriyeuregen?style=social)](https://www.github.com/sabriyeuregen)
 
 
 
