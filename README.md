@@ -1,8 +1,8 @@
 
 # Merhaba, ben Sabriye ÜREGEN! 
 ## I'm Front-End Developer
-## HTML, CSS/SCSS, JavaScript, TypeScript, React and I'm learning NextJS!
-### redux, react-router-dom
+## HTML, CSS/SCSS, JavaScript, TypeScript, React, NextJS, MUI!
+### redux, firebase ,react-router-dom, contextAPI
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabriyeuregen" alt="sabriyeuregen" /> </p>
 
 [![](https://img.shields.io/github/followers/sabriyeuregen?style=social)](https://www.github.com/sabriyeuregen)
