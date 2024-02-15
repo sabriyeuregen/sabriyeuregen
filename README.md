@@ -1,6 +1,6 @@
 
 # Merhaba, ben Sabriye ÜREGEN! 
-## I'm Front-End Developer
+## I'm a Front-End Developer
 ## HTML, CSS/SCSS, JavaScript, TypeScript, React, NextJS, MUI!
 ### redux, firebase ,react-router-dom, contextAPI
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabriyeuregen" alt="sabriyeuregen" /> </p>
