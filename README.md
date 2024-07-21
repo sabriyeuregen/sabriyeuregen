@@ -1,5 +1,5 @@
 
-# Merhaba, ben Sabriye ÜREGEN! 
+# Merhaba, ben Sabriye NOHUTLU! 
 ## I'm a Front-End Developer
 ## HTML, CSS/SCSS, JavaScript, TypeScript, React, NextJS!
 ### redux, firebase ,react-router-dom, contextAPI, MUI
